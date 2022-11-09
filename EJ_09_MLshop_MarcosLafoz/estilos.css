@@ -1,0 +1,695 @@
+*{
+	margin: 0px;
+	
+	
+	
+}
+
+body{
+	color:black;
+	background-color: white;
+
+
+}
+
+div{
+	box-sizing: border-box;
+}
+
+#cabecera{
+	color: rgba(255, 245, 247, 0.9);
+	background-color: rgba(29, 29, 31, 0.9);
+	font-family: 'Poppins', sans-serif;
+	width: 100%;
+	height: 44px;
+	box-sizing: border-box;
+}
+
+#sale{
+	color: rgba(255, 245, 247);
+	background-color: rgba(0, 178, 158, 0.8);
+	font-family: 'Poppins', sans-serif;
+	width: 100%;
+	height: 30px;
+	box-sizing: border-box;
+	font-size: 13px;
+}
+
+
+#caja1{
+	color: rgba(255, 245, 247, 0.9);
+	font-family: 'Poppins', sans-serif;
+	height: 44px;
+	padding-top: 9px;
+	box-sizing: border-box;
+	float: left;
+	padding-left: -70px;
+	
+	
+
+}
+
+#caja2{
+	color: rgba(255, 245, 247, 0.9);
+	font-family: 'Poppins', sans-serif;
+	height: 44px;
+	padding-top: 9px;
+	box-sizing: border-box;
+	float: left;
+	padding-left: 100px;
+	
+
+}
+
+#barra{
+	height: 44px;
+	width: 900px;
+	box-sizing: border-box;
+}
+
+#logocabecera{
+	height: 20px;
+	box-sizing: border-box;
+	
+}
+
+a{
+	color: rgba(255, 245, 247, 0.9);
+	font-family: 'Poppins', sans-serif;
+	text-decoration: none;
+
+}
+
+a:hover{
+	color: rgba(255, 245, 247);
+
+}
+
+#textosale{
+	padding-top: 5px;
+}
+
+#contenido{
+	color: rgba(0, 0, 0, 0.9);
+	background-color: rgba(255, 255, 255, 0.9);
+	font-family: 'Poppins', sans-serif;
+	width: 900px;
+	height: 970px;
+	box-sizing: border-box;
+}
+
+#contenido2{
+	color: rgba(0, 0, 0, 0.9);
+	background-color: rgba(255, 255, 255, 0.9);
+	font-family: 'Poppins', sans-serif;
+	width: 900px;
+	height: 970px;
+	box-sizing: border-box;
+}
+
+#pie{
+	color: rgba(255, 245, 247, 0.9);
+	background-color: rgba(29, 29, 31, 0.9);
+	font-family: 'Poppins', sans-serif;
+	width: 100%;
+	height: 44px;
+	box-sizing: border-box;
+	font-size: 12px;
+
+}
+
+#piep{
+	padding-top: 5px;
+}
+
+#articulo1{
+	color: rgba(0, 0, 0, 0.9);
+	background-color: rgba(84, 84, 84, 0.9);
+	font-family: 'Poppins', sans-serif;
+	width: 450px;
+	height: 750px;
+	box-sizing: border-box;
+	float: left;
+	background-image: url(files/foto3.jpg);
+	background-position-x: -100px;
+}
+
+#articulo2{
+	color: rgba(0, 0, 0, 0.9);
+	background-color: rgba(255, 255, 255, 0.9);
+	font-family: 'Poppins', sans-serif;
+	width: 450px;
+	height: 375px;
+	box-sizing: border-box;
+	float: right;
+	background-image: url(files/foto2.png);
+	background-size: 370px;
+	background-position-x: 20px;
+	
+
+}
+
+
+#articulo3{
+	color: rgba(0, 0, 0, 0.9);
+	background-color: rgba(169, 169, 169, 0.9);
+	font-family: 'Poppins', sans-serif;
+	width: 450px;
+	height: 375px;
+	box-sizing: border-box;
+	float: right;
+	background-image: url(files/foto6.jpg);
+	background-size: 700px;
+	background-position-x: -150px;
+
+	
+
+}
+
+#banda{
+	height: 50px;
+	width: 350px;
+	background-color: rgba(0, 0, 0, 0.4);
+	color: white;
+	margin-top: 700px;
+	box-sizing: border-box;
+	font-size: 20px;
+	padding-top: 10px;
+}
+
+#banda2{
+	height: 50px;
+	width: 350px;
+	background-color: rgba(0, 0, 0, 0.4);
+	color: rgb(255, 255, 255);
+	margin-top: 325px;
+	box-sizing: border-box;
+	font-size: 20px;
+	padding-top: 10px;
+	
+	
+}
+
+#menu1{
+	width: 900px;
+	height: 400px;
+	background-color: white;
+	background-image: url(files/textura.png);
+	margin-top: 20px;
+
+}
+
+#menu2{
+	width: 900px;
+	height: 55px;
+	background-color: white;
+	background-image: url(files/textura2.png);
+	margin-top: 20px;
+	opacity: 0.8;
+	
+}
+
+#sale1{
+	width: 230px;
+	height: 300px;
+	
+	background-image: url(files/sale2.jpeg);
+	margin-top: 25px;
+	padding-top: 20px;
+	float: left;
+	margin-left: 50px;
+	background-size: 400px;
+	background-position-x: -90px;
+
+	
+}
+
+#sale2{
+	width: 230px;
+	height: 300px;
+	
+	background-image: url(files/sale2.jpg);
+	margin-top: 25px;
+	padding-top: 20px;
+	float: left;
+	background-size: 300px;
+	background-position-x: -50px;
+	
+	margin-left: 55px;
+
+	
+}
+
+#sale3{
+	width: 230px;
+	height: 300px;
+	
+	background-image: url(files/sale3.jpg);
+	margin-top: 25px;
+	padding-top: 20px;
+	float: left;
+	margin-left: 55px;
+	background-size: 400px;
+	background-position-x: -90px;
+	
+
+	
+}
+
+
+#ofertasletras{
+	color: rgb(0, 0, 0);
+	font-size: 35px;
+	opacity: 1;
+
+
+}
+
+#letrero1{
+	color: rgb(43, 255, 0);
+	padding-top: 347px;
+	font-size: 20px;
+	
+}
+
+#letrero2{
+	color: rgb(43, 255, 0);
+	
+	font-size: 20px;
+	float: left;
+	
+}
+
+#sale11{
+	width: 230px;
+	height: 35px;
+	
+	background-image: url(files/textura2.png);
+	margin-top: 15px;
+	padding-top: 3px;
+	float: left;
+	margin-left: 50px;
+	
+
+	
+}
+
+#sale22{
+	width: 230px;
+	height: 35px;
+	
+	background-image: url(files/textura2.png);
+	margin-top: 15px;
+	padding-top: 3px;
+	float: left;
+	box-sizing: border-box;
+
+	
+	
+	margin-left: 55px;
+
+	
+}
+
+#sale33{
+	width: 230px;
+	height: 35px;
+	margin-top: 15px;
+	
+	background-image: url(files/textura2.png);
+	
+	padding-top: 3px;
+	float: left;
+	margin-left: 55px;
+	box-sizing: border-box;
+
+	
+	
+
+	
+}
+
+#linksale{
+	color: black;
+	font-size: 20px;
+	box-sizing: border-box;
+
+	
+}
+
+#menu11{
+	width: 900px;
+	height: 450px;
+	background-color: white;
+	background-image: url(files/textura2.png);
+	margin-top: 20px;
+	box-sizing: border-box;
+
+}
+
+#menu111{
+	
+	height: 390px;
+	
+
+	margin-top: 30px;
+	
+	background-position-x: -70px;
+	box-sizing: border-box;
+
+
+}
+
+#menu111lateralizq{
+	
+	height: 390px;
+	background-color: white;
+
+
+	margin-top: 30px;
+	
+	background-image: url(files/nueva.png);
+	box-sizing: border-box;
+
+
+}
+
+
+#menu111lateralder{
+	
+	height: 390px;
+	background-color: white;
+
+
+	margin-top: 30px;
+	
+
+	box-sizing: border-box;
+
+
+}
+
+#ac1{
+	color: rgba(0, 0, 0, 0.9);
+	background-color: rgba(84, 84, 84, 0.9);
+	font-family: 'Poppins', sans-serif;
+	width: 450px;
+	height: 750px;
+	box-sizing: border-box;
+	float: left;
+	background-image: url(files/gorra.jpg);
+	background-position-x: -100px;
+}
+
+#ac2{
+	color: rgba(0, 0, 0, 0.9);
+	background-color: rgba(255, 255, 255, 0.9);
+	font-family: 'Poppins', sans-serif;
+	width: 450px;
+	height: 375px;
+	box-sizing: border-box;
+	float: right;
+	background-image: url(files/gorro.jpg);
+	background-size: 400px;
+	background-position-y: -50px;
+	
+	
+
+}
+
+
+#ac3{
+	color: rgba(0, 0, 0, 0.9);
+	background-color: rgba(169, 169, 169, 0.9);
+	font-family: 'Poppins', sans-serif;
+	width: 450px;
+	height: 375px;
+	box-sizing: border-box;
+	float: right;
+	background-image: url(files/mochila.jpg);
+	background-size: 360px;
+	background-position-x: 50px;
+
+	
+
+}
+
+#cartelaccesorios{
+	height: 100px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#r1{
+	color: rgba(0, 0, 0, 0.9);
+	background-color: rgba(84, 84, 84, 0.9);
+	font-family: 'Poppins', sans-serif;
+	width: 450px;
+	height: 750px;
+	box-sizing: border-box;
+	float: left;
+	background-image: url(files/r1.jpg);
+	background-position-x: -50px;
+
+	
+	
+}
+
+#r2{
+	color: rgba(0, 0, 0, 0.9);
+	background-color: rgba(255, 255, 255, 0.9);
+	font-family: 'Poppins', sans-serif;
+	width: 450px;
+	height: 375px;
+	box-sizing: border-box;
+	float: right;
+	background-image: url(files/r2.jpg);
+	background-size: 400px;
+	background-position-y: -50px;
+	background-position-x: 25px ;
+	
+	
+
+}
+
+
+#r3{
+	color: rgba(0, 0, 0, 0.9);
+	background-color: rgba(169, 169, 169, 0.9);
+	font-family: 'Poppins', sans-serif;
+	width: 450px;
+	height: 375px;
+	box-sizing: border-box;
+	float: right;
+	background-image: url(files/r3.jpg);
+	background-size: 420px;
+	background-position-x: 50px;
+
+	
+
+}
+
+/*ESTRELLAS*/
+#form {
+	width: 250px;
+	margin: 0 auto;
+	height: 50px;
+  }
+  
+  #form p {
+	text-align: center;
+  }
+  
+  #form label {
+	font-size: 200px;
+  }
+  
+  input[type="radio"] {
+	display: none;
+  }
+  
+  label {
+	color: grey;
+  }
+  
+  .clasificacion {
+	direction: rtl;
+	unicode-bidi: bidi-override;
+	font-size: 25px;
+  }
+  
+  label:hover,
+  label:hover ~ label {
+	color: rgb(0, 178, 158);
+  }
+  
+  input[type="radio"]:checked ~ label {
+	color: rgb(0, 178, 158);
+  }
+#puntuacion{
+	font-size:13px;
+	color: white;
+	margin-top: 40px;
+}
+
+#nl1{
+	color: rgb(0, 178, 158);
+	font-size: 30px;
+}
+
+#nlbox{
+	background-color: rgba(0, 0, 0, 0.585);
+	width: 700px;
+	height: 250px;
+	padding-top: 20px;
+	
+}
+
+#infobox{
+	background-color: rgba(29, 29, 31, 0.9);
+	width: 400px;
+	height: 625px;
+	padding-top: 20px;
+	margin-top: 30px;
+	
+}
+
+#infologo1{
+	margin-top: 10px;
+}
+
+#infoboxbannerizq{
+	
+	background-color: rgba(29, 29, 31, 0.9);
+	width: 100px;
+	height: 625px;
+	padding-top: 20px;
+		
+	
+}
+
+#email{
+	width: 250px;
+	border-radius: 10px;
+	border-width: 0px;
+	background-color: rgba(255, 255, 255, 1);
+	
+}
+
+#email2{
+	width: 250px;
+	border-radius: 10px;
+	border-width: 0px;
+	background-color: rgba(255, 255, 255, 0.742);
+	
+}
+
+#email3{
+	height: 36px;
+	width: 250px;
+	border-radius: 10px;
+	border-width: 0px;
+	background-color: rgba(255, 255, 255, 1);
+	margin-top: 20px;
+	
+}
+
+#email4{
+	height: 100px;
+	width: 250px;
+	border-radius: 10px;
+	border-width: 0px;
+	background-color: rgba(255, 255, 255, 1);
+	margin-top: 20px;
+	
+}
+
+
+#email5{
+	width: 250px;
+	border-radius: 10px;
+	border-width: 0px;
+	background-color: rgba(255, 255, 255, 1);
+	margin-top: 20px;
+	height: 20px;
+	
+}
+
+
+#email6{
+	width: 250px;
+	border-radius: 10px;
+	border-width: 0px;
+	background-color: rgba(255, 255, 255, 1);
+	margin-top: 20px;
+	height: 20px;
+	
+}
+
+#botonmail{
+	border-radius: 30px;
+	height: 30px;
+	border-width: 0px;
+	background-color: red;
+	color: white;
+	font-size: 15px;
+}
+
+#tecbox{
+	background-color: rgba(0, 0, 0, 0.585);
+	width: 700px;
+	height: 390px;
+	padding-top: 20px;
+	border-radius: 15px;
+}
+
+#tec1{
+	color: red;
+	font-size: 17px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+
+#tec2{
+	color: rgb(255, 255, 255);
+	font-size: 12px;
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: justify;
+}
+
+#m1{
+	border-radius: 15px;
+}
+
+#botonmail2{
+	border-radius: 30px;
+	height: 30px;
+	border-width: 0px;
+	background-color: rgb(0, 178, 158);
+	color: white;
+	font-size: 15px;
+	margin-top: 40px;
+}
+
+#contenido5{
+	color: rgba(0, 0, 0, 0.9);
+	background-color: rgba(255, 255, 255, 0.9);
+	font-family: 'Poppins', sans-serif;
+	width: 900px;
+	height: 720px;
+	box-sizing: border-box;
+}
+
+#banner22{
+	background-image: url(files/textura.png);
+	width: 100px;
+	height: 525px;
+	padding-left: -500px;
+}
+
+
+
+
+
